@@ -24,7 +24,7 @@ gentle way of alerting them to such errors.
 
 ## What is that?
 This is my final project in the Technion course "Advanced Machine Learning and Optimization" (097209).<br>
-A joint work of myself and [Gal Goldstein](https://www.linkedin.com/in/gal-goldstein-8776b0168/).
+A joint work of myself and [Yotam Martin](https://www.linkedin.com/in/gal-goldstein-8776b0168/).
 
 [Project report](https://drive.google.com/file/d/1P7VmEGp_8rhoUefoaoSLoUsyD8lIfiVD/view?usp=sharing)
 <br>
